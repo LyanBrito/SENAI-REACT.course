@@ -41,7 +41,7 @@ export const DropdownContainer = styled.div`
   position: fixed;
   background-color: aqua;
   top: 72px;
-  left: 770px;
+  left: 54.8%;
   border: 1px solid black;
   width: 120px;
 `;
