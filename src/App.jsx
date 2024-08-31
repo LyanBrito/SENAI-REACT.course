@@ -1,9 +1,7 @@
 import React from "react";
-import Home from "./pages/home";
+import Hero from "./components/square";
+// import Home from "./pages/home";
 
-export default function App(){
-  return(
-    <Home />
-)
-
+export default function App() {
+  return <Hero alignment="reverse"/>;
 }
