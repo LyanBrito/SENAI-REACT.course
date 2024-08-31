@@ -6,6 +6,7 @@ export const Header = styled.header`
   align-items: center;
   gap: 362.5px;
   height: 72px;
+  width: 100%;
   border-bottom: 1px solid black;
 `;
 export const Nav = styled.nav`
