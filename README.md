@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This repository is a registration of my track in SENAI Suiço Brasileiro course. Were i learn how to use React framework, react libs, css libs and how to use react components.
 
 ## Available Scripts
 
